@@ -1,0 +1,3 @@
+[submodule "Desktop/git/example"]
+	path = Desktop/git/example
+	url = https://github.com/w1649n/src.git
